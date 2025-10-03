@@ -1,0 +1,10 @@
+python==3.9.21
+pandas==2.2.3
+tensorflow==2.12.1
+numpy==1.24.3
+innvestigate==2.0.1
+
+
+
+
+
