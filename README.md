@@ -1,4 +1,4 @@
-# DNA methylation
+# Multiomics-Protein-Prediction
 
 ## Summary
 This repository provides code for a deep learning framework that integrates multi-omics data to predict protein abundance. The models incorporate RNA expression, DNA methylation, or both as inputs, and their predictive features are analyzed using interpretation methods. By combining omics layers, the approach improves prediction accuracy and highlights regulatory mechanisms relevant to cancer biology.
